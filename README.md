@@ -17,6 +17,7 @@ To use this project, the user must open the index.html file in a web browser.
 ## Credits
 
 John Ifert-Miller
+https://github.com/johnboy514
 
 ## License
 
